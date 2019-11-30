@@ -1,8 +1,9 @@
-regolith-gnome-flashback (2.0-1ubuntu1~ppa1) eoan; urgency=medium
+regolith-gnome-flashback (1.47-1ubuntu1~ppa1) disco; urgency=medium
 
-  * Updates for Eoan compatibility. 
+  * Disable gnome-flashback notifications.
+  * Minor tweaks to comments in restore script. 
 
- -- Ken Gilmer <kgilmer@gmail.com>  Sat, 14 Sep 2019 20:56:21 -0700
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 30 Nov 2019 13:28:48 -0800
 
 regolith-gnome-flashback (1.46-1ubuntu1~ppa1) disco; urgency=medium
 
