@@ -1,3 +1,9 @@
+regolith-gnome-flashback (1.48-1ubuntu1~ppa2) disco; urgency=medium
+
+  * Fix bug with checking GTK theme on start.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Thu, 12 Dec 2019 19:55:33 -0800
+
 regolith-gnome-flashback (1.47-1ubuntu1~ppa1) disco; urgency=medium
 
   * Disable gnome-flashback notifications.
