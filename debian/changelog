@@ -1,3 +1,10 @@
+regolith-gnome-flashback (1.49-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Check if Xresources changed to refresh UI.
+  * Fix bug with checking GTK theme on start.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 29 Dec 2019 14:44:38 -0800
+
 regolith-gnome-flashback (1.47-1ubuntu1~ppa1) disco; urgency=medium
 
   * Disable gnome-flashback notifications.
