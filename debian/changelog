@@ -1,3 +1,15 @@
+regolith-gnome-flashback (1.51-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Fix file path specification for wallpaper. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 31 Dec 2019 08:07:50 -0800
+
+regolith-gnome-flashback (1.50-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Move wallpaper definition back into Xresources. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 30 Dec 2019 00:19:03 -0800
+
 regolith-gnome-flashback (1.49-1ubuntu1~ppa1) disco; urgency=medium
 
   * Check if Xresources changed to refresh UI.
