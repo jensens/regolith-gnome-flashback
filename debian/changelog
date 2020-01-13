@@ -1,3 +1,16 @@
+regolith-gnome-flashback (1.51-1ubuntu1~ppa3) disco; urgency=medium
+
+  * Migrate to new PPA. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 12 Jan 2020 19:17:01 -0800
+
+regolith-gnome-flashback (1.51-1ubuntu1~ppa2) disco; urgency=medium
+
+  * Remove unnecessary dependency on regolith-assets.
+  * Add missing dependencies.  
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 05 Jan 2020 14:47:52 -0800
+
 regolith-gnome-flashback (1.51-1ubuntu1~ppa1) disco; urgency=medium
 
   * Fix file path specification for wallpaper. 
