@@ -1,10 +1,42 @@
+regolith-gnome-flashback (1.51-1ubuntu1~ppa3) disco; urgency=medium
+
+  * Migrate to new PPA. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 12 Jan 2020 19:17:01 -0800
+
+regolith-gnome-flashback (1.51-1ubuntu1~ppa2) disco; urgency=medium
+
+  * Remove unnecessary dependency on regolith-assets.
+  * Add missing dependencies.  
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 05 Jan 2020 14:47:52 -0800
+
+regolith-gnome-flashback (1.51-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Fix file path specification for wallpaper. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 31 Dec 2019 08:07:50 -0800
+
+regolith-gnome-flashback (1.50-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Move wallpaper definition back into Xresources. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 30 Dec 2019 00:19:03 -0800
+
+regolith-gnome-flashback (1.49-1ubuntu1~ppa1) disco; urgency=medium
+
+  * Check if Xresources changed to refresh UI.
+  * Fix bug with checking GTK theme on start.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 29 Dec 2019 14:44:38 -0800
+
 regolith-gnome-flashback (1.48-1ubuntu1~ppa2) disco; urgency=medium
 
   * Fix bug with checking GTK theme on start.
 
  -- Ken Gilmer <kgilmer@gmail.com>  Thu, 12 Dec 2019 19:55:33 -0800
-
-regolith-gnome-flashback (1.47-1ubuntu1~ppa1) disco; urgency=medium
+ 
+ regolith-gnome-flashback (1.47-1ubuntu1~ppa1) disco; urgency=medium
 
   * Disable gnome-flashback notifications.
   * Minor tweaks to comments in restore script. 
