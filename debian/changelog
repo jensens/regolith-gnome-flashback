@@ -1,3 +1,9 @@
+regolith-gnome-flashback (1.60.1-1ubuntu1~ppa1) bionic; urgency=medium
+
+  * Resolve wallpaper path to absolute to allow ~ specification. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 16 Feb 2020 10:48:30 -0800
+
 regolith-gnome-flashback (1.60.0-1ubuntu1~ppa1) bionic; urgency=medium
 
   * Add Xres override mechanism for easier updating of configuration.
