@@ -1,3 +1,9 @@
+regolith-gnome-flashback (1.60.2-1ubuntu1~ppa1) bionic; urgency=medium
+
+  * Fix wallpaper path expansion from previous release. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Sun, 16 Feb 2020 13:58:28 -0800
+
 regolith-gnome-flashback (1.60.1-1ubuntu1~ppa1) bionic; urgency=medium
 
   * Resolve wallpaper path to absolute to allow ~ specification. 
